@@ -2,8 +2,7 @@
 
 ## Currently Working on
 - Rust Code Breaking app
-- First OpenGL app
-- 
+- OpenGL particle app
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
