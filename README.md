@@ -1,5 +1,10 @@
-### Hi there, Im Blake Sharp 👋
+### Hi, Im Blake Sharp 👋
 
 ## Currently Working on
-- Rust Code Breaking app
-- OpenGL particle Project
+- A group code cracking tool for Rust
+- An openGL particle project
+
+## I Enjoy
+- ⌨️ Building and repairing mechanical keyboards 
+- 🏓 Table Tennis
+- Competitive Programming
