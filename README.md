@@ -1,8 +1,8 @@
-### Hi, Im Blake Sharp 👋
+# Hi, Im Blake Sharp 👋
 
 ## Currently Working on
 - A group code cracking tool for Rust
-- An openGL particle project
+- A data visualization tool for the Open Collective 
 
 ## I Enjoy
 - ⌨️ Building and repairing mechanical keyboards 
