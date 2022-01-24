@@ -1,6 +1,6 @@
 # Hi, I'm Blake Sharp  <img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="40px">
 ## I am Currently
-- Beggining work on open-source projects
+- Beginning work on open-source projects
 
 ## I Enjoy
 - ⌨️ Building and repairing mechanical keyboards 
