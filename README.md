@@ -1,5 +1,6 @@
 # Hi, I'm Blake Sharp  <img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="40px">
 ## I am Currently
+- Studying DSA
 - Developing a Chrome extension
 
 ## I Enjoy
