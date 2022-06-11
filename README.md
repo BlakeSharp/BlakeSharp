@@ -1,4 +1,4 @@
-# Hi, I'm Blake Sharp 
+# Hi, I'm Blake Sharp 👋
 ## I am Currently
 - Studying DSA
 - Developing a Chrome extension
